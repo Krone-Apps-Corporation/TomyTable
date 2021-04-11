@@ -4,7 +4,8 @@
  *  Description: The javascript file of TomyTable
  *  Version    : v1.0.0
  *
- */
+*/
+ 
  $.fn.tomytable=function(b){
 	var a = $.extend({
 		datahtml: false,
